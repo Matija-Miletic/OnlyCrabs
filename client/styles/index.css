@@ -71,3 +71,11 @@ body {
   align-items: center; /* center children horizontally */
   min-height: 100vh; /* take up at least the full viewport height */
 }
+
+.planets {
+  color: azure;
+}
+
+li {
+  text-size-adjust: 150%;
+}
