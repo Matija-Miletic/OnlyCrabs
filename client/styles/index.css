@@ -94,3 +94,11 @@ select:hover {
   background: black;
   color: azure;
 }
+
+.planets {
+  color: azure;
+}
+
+li {
+  text-size-adjust: 150%;
+}
